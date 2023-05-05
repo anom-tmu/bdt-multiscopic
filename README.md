@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/anom-tmu/bdt-multiscopic/blob/main/bdt_github.gif)
 
+![alt text](https://github.com/anom-tmu/bdt-multiscopic/blob/main/multiscopi_cpps_framework.png)
+
 The code is documented and designed to be easy to extend. If you use it in your research, please consider citing this repository (bibtex below). This dataset was created from Kubota Laboratory, Tokyo Metropolitan University and available for academic use. 
 
 ## Requirements
